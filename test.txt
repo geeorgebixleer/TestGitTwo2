@@ -1,4 +1,11 @@
 
 
+hola
+adios
+
+estoy aqui
+adios 
+nunca
+siempre
 
 <text> hola mundo
